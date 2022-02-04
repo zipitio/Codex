@@ -20,5 +20,9 @@
   "homepage": "https://github.com/Ricardo-solis/Codex#readme",
   "devDependencies": {
     "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.4",
+    "bootstrap": "^5.1.3"
   }
 }
